@@ -1,6 +1,6 @@
 # ProyectBebidas-BackendNodeJS
 
-# *Instalar los modulos requeridos con npm install
+# Instalar los modulos requeridos con npm install
 
 *Usar en una consola dentro del proyecto el comando npm run tsc*
 
